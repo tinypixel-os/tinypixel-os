@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tinypixel-os
+- 👋 Hi, I’m Himanshu.
 - 👀 I’m interested in open source and frontend.
 - 🛠️ been doing web stuff for 6 years.
 - 🌱 I’m currently learning iOS and web3.
