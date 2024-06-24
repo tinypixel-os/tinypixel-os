@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tinypixel-os
 - 👀 I’m interested in open source and frontend.
-- 🌱 I’m currently learning web3.
+- 👀 been doing web stuff for 6 years.
+- 🌱 I’m currently learning iOS and web3.
 - 📫 How to reach me: [@tinypixel](https://twitter.com/tinypixel_)
 
 <!---
