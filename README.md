@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu.
 - 👀 I’m interested in open source and frontend.
 - 🛠️ been doing web stuff for 6 years.
-- 🌱 I’m currently learning iOS and web3.
+- 🌱 I’m currently learning iOS and app interactions.
 - 📫 How to reach me: [@tinypixel](https://twitter.com/tinypixel_)
 
 <!---
