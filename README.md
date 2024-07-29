@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu.
 - 👀 I’m interested in open source and frontend.
-- 🛠️ been doing web stuff for 6 years.
+- 🛠️ been doing web stuff for 6 years (React + Vue).
 - 🌱 I’m currently learning iOS and app interactions.
 - 📫 How to reach me: [@tinypixel](https://twitter.com/tinypixel_)
 
