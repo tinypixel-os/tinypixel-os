@@ -2,7 +2,6 @@
 - 👀 I’m interested in productivity, minimalism and frontend.
 - 🛠️ been doing web stuff for 6 years (React + Vue).
 - 🌱 I’m currently learning iOS and app interactions.
-- 📫 How to reach me: [@tinypixel](https://twitter.com/tinypixel_)
 
 <!---
 tinypixel-os/tinypixel-os is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
