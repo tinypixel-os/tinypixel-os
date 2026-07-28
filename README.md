@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu.
 - 👀 I’m interested in productivity, minimalism and frontend.
-- 🛠️ been doing web stuff for 6 years (React + Vue).
+- 🛠️ been doing web stuff for 8 years (React + Vue).
 - 🌱 I’m currently learning iOS and app interactions.
 
 <!---
